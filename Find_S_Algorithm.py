@@ -2,7 +2,6 @@
 """
 Created on Thu Aug 23 19:12:14 2018
 
-@author: atulh
 """
 
 def loadCSV(filename,skipHeader):
